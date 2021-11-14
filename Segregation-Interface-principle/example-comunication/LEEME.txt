@@ -1,0 +1,6 @@
+Tenemos un método comunicación que posee un implementación especifica para un cliente.
+
+- Debemos lograr que nuestro método comunicación pueda ser implementado para clientes que necesiten y no necesiten encriptar sus datos.
+
+Tarea: 
+- Dividir en interfaces los comportamiento especificos para algunos clientes.

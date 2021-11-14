@@ -1,0 +1,13 @@
+Esta es una aplicación que representa a una tienda de cafe.
+
+Tenemos una clase principal llamada CoffeShop que actualimente se encarga de:
+- Añadir productos.
+- Obtener productos.
+- Eliminar porductos.
+- Agregar productos al carrito.
+- Obtener el total a pagar por los productos agregados al carrito.
+- Mostrar el menu.
+
+Tarea a realizar: 
+- Identificar las responsabilidades de la clase y comprender cuales pueden ser los motivos para que esta deba cambiar.
+- Separar estas responsabilidades en clases independientes.

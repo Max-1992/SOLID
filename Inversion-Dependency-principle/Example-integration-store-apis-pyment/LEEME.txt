@@ -1,0 +1,4 @@
+Tenemos que realizar la integración de nuestra tienda con las diferentes APIS de nestros medios de pago.
+- API BANK
+- PayPal
+- MercadoPago

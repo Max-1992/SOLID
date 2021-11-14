@@ -1,0 +1,8 @@
+1 - Identificar el comportamiento extensible.
+    - El comportamiento extensible es la capacidad de ordernar tanto de manera ascendente o descendente los numeros primo generados.
+2 - Crear una interfaz que agrupe y proteja el comportamiento extensible del ordenamiento.
+    - Se creo una interfaz llamada ordenamiento que implementa el método ordernar.
+3 - Crear una clase por cada comportamiento "ascendente" "descendente" y que implemente la interfaz creada "IOrdenamiento".
+    - Se crearon las clases generadorPrimosOrdenAscendente y generadorPrimosOrdenDescendente, estas implementan la interfaz "IOrdenamiento"
+4 - Invertir la dependencia dentro de la clase principal GenerarPrimos.
+    -  Se injecto en el constructor de la clase principal generarPrimos la interfaz "IOrdenamiento" para ser ejecutada de manera transparente.

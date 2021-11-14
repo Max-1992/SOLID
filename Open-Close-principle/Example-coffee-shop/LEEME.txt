@@ -1,0 +1,7 @@
+Esta es una aplicación que representa a una tienda de cafe.
+
+Tenemos una clase Menu que debe poder presentar los datos en formato texto, json y html:
+
+Tarea a realizar: 
+- Identificar el comportamiento extensible.
+- Corregir la clase Menu para que respete el principio open/close.

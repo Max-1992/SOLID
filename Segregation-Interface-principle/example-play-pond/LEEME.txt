@@ -1,0 +1,7 @@
+En este ejemplo tendremos un estanque en el cual muchos animales deben poder jugar.
+Los animales que deben poder jugar son:
+- Pato
+- Pato de madera
+- Rana
+
+Todos estos animales deben poder jugar a su manera en el estanque y con sus capacidades.

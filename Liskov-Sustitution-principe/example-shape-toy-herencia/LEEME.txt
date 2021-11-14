@@ -1,0 +1,9 @@
+Vamos a crear un jugete que permite insertar diferentes figuras geometricas en sus diferentes lados.
+Al tratar de insertar una figura podemos encontrarnos con dos resultados:
+    - Ingreso "exito"
+    - No ingreso "fracaso"
+
+Para saber si una figura ingreso en el juguete debemo saber dos cosas:
+    - El área de la figura.
+    - El área del hueco en el juguet.
+    
